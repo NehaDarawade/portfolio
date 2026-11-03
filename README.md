@@ -1,18 +1,51 @@
-# Neha Darawade - Portfolio Website
+# 🌐 Neha Darawade – Personal Portfolio
 
-A responsive portfolio built with HTML5, CSS3, Bootstrap 5 and JavaScript.
+Welcome to my personal developer portfolio! I am an aspiring **Java Backend / Full Stack Developer** passionate about building web applications and learning new technologies.
 
-## Run locally
-1. Extract the ZIP file.
-2. Open the `neha_portfolio` folder in VS Code.
-3. Open `index.html` in your browser (or use the Live Server extension).
+## 👩‍💻 About Me
+- Postgraduate in Computer Science
+- Completed Java Full Stack Development training
+- Interested in Java Backend and Full Stack Development
+- Always eager to learn new technologies and improve my skills
 
-## Before publishing - update these placeholders
-- `your.email@example.com` in `index.html` and `js/script.js`
-- LinkedIn and GitHub profile URLs in `index.html`
-- GitHub repository URLs for each project
-- Add your actual passing years and verify education details
-- Add your resume PDF if you want a Resume button/link
-- Confirm internship dates and description match your certificate
+## 🛠️ Technical Skills
+- **Programming:** Core Java, Advanced Java
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+- **Backend:** Spring, Spring Boot, REST APIs
+- **Database:** MySQL, Hibernate, JPA
+- **Tools:** Git, GitHub, Maven, Postman, VS Code
 
-Bootstrap and Bootstrap Icons are loaded from CDNs, so an internet connection is needed for those assets.
+## 🚀 My Projects
+
+### 1. Employee Management System
+- Employee CRUD operations
+- Search employees by name
+- React frontend and Spring Boot backend
+- Hibernate and MySQL database
+
+### 2. Inventory Management System
+- Product and stock management
+- Low-stock alerts
+- Supplier and sales/purchase records
+- React, Spring Boot, Hibernate and MySQL
+
+### 3. Quiz Management System
+- User registration and login
+- Quiz and question management
+- JWT-based authentication
+- React, Spring Boot and MySQL
+
+## 🎓 Education
+- M.Sc. Computer Science
+- B.Sc. Computer Science
+
+## 💼 Internship
+Java Development Intern – Saiket Systems
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/NehaDarawade
+- **Portfolio:** https://NehaDarawade.github.io/portfolio/
+
+---
+
+⭐ Thank you for visiting my portfolio!
